@@ -33,3 +33,5 @@ _(Próximamente instrucciones de `docker build` y `docker run`)_
 ---
 
 🎨 _Este repositorio se complementa con el trabajo de investigación disponible en [emotion-music-training](https://github.com/ClaudiaMetz/emotion-music-training)._
+
+⏭️ **Nota de evolución:** El desarrollo del proyecto continúa en la versión 2.0 dentro del repositorio [emotion-music-mlops-v.2.xx](https://github.com/ClaudiaMetz/emotion-music-mlops-v.2.xx).
